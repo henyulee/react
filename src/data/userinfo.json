@@ -1,0 +1,26 @@
+{
+	"thead":["姓名","年龄","职业","地址"],
+	"tbody":[
+		{
+			"name":"henyu",
+			"age":27,
+			"profession":"web dev",
+			"address":"北京朝阳"
+		},{
+			"name":"李传发",
+			"age":26,
+			"profession":"web dev",
+			"address":"北京昌平"
+		},{
+			"name":"杜印",
+			"age":26,
+			"profession":"web dev",
+			"address":"北京朝阳"
+		},{
+			"name":"dudu",
+			"age":25,
+			"profession":"web dev",
+			"address":"北京海淀"
+		}
+	]
+}
